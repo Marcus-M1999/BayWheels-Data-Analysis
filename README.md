@@ -1,4 +1,4 @@
-# Project 1: Query Project
+# Bay Wheels Data Analysis Project
 
 - In the Query Project, you will get practice with SQL while learning about
   Google Cloud Platform (GCP) and BiqQuery. You'll answer business-driven
